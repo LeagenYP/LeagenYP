@@ -23,4 +23,4 @@ I have working experience with tools:
 ## 💬 Ways to reach me:
 
 - <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/leagen3">@leagen3</a>
-- 📝 [Email](mailto:ponomarev-25@yandex.ru)
+- 📝 ponomarev-25@yandex.ru
