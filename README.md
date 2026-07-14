@@ -4,4 +4,3 @@ About me: I picked testing because I’ve always wanted to test games. Then I ga
 
 I have working experience with tools:
 
-IntelliJ IDEA Java Selenium Allure Report Allure TestOps Gradle JUnit5 GitHub Figma Maven Jira Postman
