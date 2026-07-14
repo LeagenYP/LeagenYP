@@ -4,3 +4,6 @@ About me: I picked testing because I’ve always wanted to test games. Then I ga
 
 I have working experience with tools:
 
+<p align="center">
+<img width="6%" title="Postman" src="src/logo/postman-icon-logo.svg">
+</p>
