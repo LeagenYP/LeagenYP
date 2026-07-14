@@ -19,3 +19,8 @@ I have working experience with tools:
 <img width="4%" title="Figma" src="src/logo/figma-logo.svg"> 
 <img width="6%" title="Android Studio" src="src/logo/androidstudio-original-logo.svg"> 
 </p>
+
+## 💬 Ways to reach me:
+
+- <img width="2.5%" title="Telegram" src="src/logo/Telegram.svg"> <a target="_blank" href="https://t.me/leagen3">@leagen3</a>
+- 📝 [Email](mailto:ponomarev-25@yandex.ru)
